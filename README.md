@@ -19,7 +19,15 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics/)
-*   [Google AdMob](https://support.google.com/admob/answer/6128543/)
+
+**Uses Made of the Information**
+
+We use or may use the following ad servingto help monetise the BMW Info application.
+*   AdMob
+*   AdSense
+Google may use the information that it obtains via the third party cookies, web beacons and other tchnologies used in connection with AdMob and AdSense in accordance with its advertising Privacy Policies. You can visit these third party cookies for interest based advertising or opt out by visiting www.aboutcookies.org.
+
+*   [AdMob & AdSense policies](https://support.google.com/admob/answer/6128543/)
 
 **Log Data**
 
