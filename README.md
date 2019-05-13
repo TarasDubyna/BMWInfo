@@ -19,7 +19,7 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics/)
-*   [Google AdSense](https://www.google.com/adsense/new/localized-terms/)
+*   [Google AdMob](https://support.google.com/admob/answer/6128543/)
 
 **Log Data**
 
