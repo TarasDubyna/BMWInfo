@@ -25,6 +25,7 @@ Link to privacy policy of third party service providers used by the app
 We use or may use the following ad servingto help monetise the BMW Info application.
 *   AdMob
 *   AdSense
+
 Google may use the information that it obtains via the third party cookies, web beacons and other tchnologies used in connection with AdMob and AdSense in accordance with its advertising Privacy Policies. You can visit these third party cookies for interest based advertising or opt out by visiting www.aboutcookies.org.
 
 *   [AdMob & AdSense policies](https://support.google.com/admob/answer/6128543/)
